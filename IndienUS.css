@@ -4,10 +4,13 @@ body {font-family:Comic Sans MS;font-size:30px;
 
 h1 {font-size:80px;}
 
-.titeltext {background-color:rgba(150,77,10,0.6);
+.titletext {background-color:rgba(150,77,10,0.6);
       margin-left:10%;margin-right:10%;margin-top:10%;text-align:center;}
 
 .text {background-color:rgba(150,77,10,0.6);
+      margin-left:5%;margin-right:18%;margin-top:-5%;margin-bottom:8%;text-align:left;}
+
+.caption {background-color:rgba(0,0,0,0.5);
       margin-left:2%;margin-right:18%;margin-top:3%;margin-bottom:8%;text-align:left;}
 
 
@@ -15,10 +18,9 @@ a:link{color:#FFFFFF;}
 a:visited{color:#F0F0F0;}
 a:active{color:#F0F0F0;}
 
-/*img {opacity:0.3;
-     margin-left:2%;
+img {opacity:1;
+     margin-left:50%;
      margin-right:5%;
-     margin-top:-42%;
+     margin-top:-5%;
      margin-bottom:1%;
     }
-*/
