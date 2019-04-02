@@ -18,8 +18,21 @@ a:visited{color:#F0F0F0;}
 a:active{color:#F0F0F0;}
 
 img {opacity:1;
+     border:5px solid #FF7F00;
+     width:30%;
+     height:30%;
      margin-left:50%;
      margin-right:5%;
-     margin-top:-5%;
+     margin-top:0%;
+     margin-bottom:1%;
+    }
+
+iframe {opacity:1;
+     border:5px solid #FF7F00;
+     width:30%;
+     height:30%;
+     margin-left:50%;
+     margin-right:5%;
+     margin-top:0%;
      margin-bottom:1%;
     }
